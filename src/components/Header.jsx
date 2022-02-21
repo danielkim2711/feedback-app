@@ -12,7 +12,6 @@ function Header({ bgColor, textColor }) {
         <h2 style={{ backgroundColor: bgColor, color: textColor }}>
           Feedback UI
         </h2>
-        <p></p>
       </div>
     </header>
   );

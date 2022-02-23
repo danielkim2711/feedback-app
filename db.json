@@ -3,22 +3,17 @@
     {
       "id": 1,
       "rating": 10,
-      "text": "This is feedback item 1 (JSON SERVER)"
+      "text": "Feedback item 1 (JSON SERVER)"
     },
     {
       "id": 2,
       "rating": 8,
-      "text": "This is feedback item 2 (JSON SERVER)"
+      "text": "Feedback item 2 (JSON SERVER)"
     },
     {
       "id": 3,
-      "rating": 8,
-      "text": "This is feedback item 3 (JSON SERVER)"
-    },
-    {
-      "id": 4,
-      "rating": 5,
-      "text": "This is a test"
+      "rating": 9,
+      "text": "Feedback item 3 (JSON SERVER)"
     }
   ]
 }
